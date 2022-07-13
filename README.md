@@ -1,6 +1,8 @@
 <h1 align="center">Welcome user, I'm Julio Velezmoro</h1>
 <h3 align="center">A passionate frontend developer.</h3>
-<p><img src='https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif' alt='coolgift'/></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="100"/>
+</div>
 
 - 🔭 I’m currently working on [Frontend Development](https://frontend-mentor-challenge-omega.vercel.app/)
 
