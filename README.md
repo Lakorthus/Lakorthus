@@ -62,7 +62,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakorthus&show_icons=true&theme=dracula&hide_border=true)
 
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 
