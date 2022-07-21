@@ -27,7 +27,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [Frontend Development](https://frontend-mentor-challenge-omega.vercel.app/)
+- 🔭 I’m currently working on [Portfolio React](shorturl.at/pCGIS)
 
 - 🌱 I’m currently learning **React.**
 
@@ -37,7 +37,7 @@
 
 - 💬 Ask me about **Html, Css, javaScript and anything related with crypto**
 
-- 📄 Know about my experiences [https://frontend-mentor-challenge-omega.vercel.app/](https://frontend-mentor-challenge-omega.vercel.app/)
+- 📄 Know about my experiences [Portfolio](shorturl.at/pCGIS)
 
 - ⚡ Fun fact **I do not know any jokes**
 
