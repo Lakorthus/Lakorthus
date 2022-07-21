@@ -27,7 +27,7 @@
 </div>
 
 
-- 🔭 I’m currently working on [Portfolio React](shorturl.at/pCGIS)
+- 🔭 I’m currently working on [Portfolio React](https://react-portafolio-two.vercel.app/)
 
 - 🌱 I’m currently learning **React.**
 
@@ -37,7 +37,7 @@
 
 - 💬 Ask me about **Html, Css, javaScript and anything related with crypto**
 
-- 📄 Know about my experiences [Portfolio](shorturl.at/pCGIS)
+- 📄 Know about my experiences [Portfolio](https://react-portafolio-two.vercel.app/)
 
 - ⚡ Fun fact **I do not know any jokes**
 
