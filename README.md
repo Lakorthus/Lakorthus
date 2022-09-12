@@ -35,8 +35,6 @@
 
 - 🤝 I’m looking for help with **networking**
 
-- 💬 Ask me about **Html, Css, javaScript and anything related with crypto**
-
 - 📄 Know about my experiences [Portfolio](https://react-portafolio-two.vercel.app/)
 
 - ⚡ Fun fact **I do not know any jokes**
