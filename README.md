@@ -29,7 +29,7 @@
 
 - 🔭 I’m currently working on [Portfolio React](https://react-portafolio-two.vercel.app/)
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning with School of Code
 
 - 👥 I’m looking to collaborate on **any project**
 
