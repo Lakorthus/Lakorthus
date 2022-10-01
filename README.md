@@ -46,7 +46,6 @@ while (dev.isInFrontOfComputer()) {
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"></code>  
 </p>
 
 #### 🏆 Github Stats:
