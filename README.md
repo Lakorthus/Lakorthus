@@ -50,7 +50,7 @@ while (dev.isInFrontOfComputer()) {
 
 #### 🏆 Github Stats:
 <p>
-  <img alt="Lakorthus Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakorthus&show_icons=true&hide_border=true&theme=nord" width="52%"/>
-
-  <img align="right" alt="lakorthus Top Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakorthus&hide_border=true&layout=compact&theme=nord" width="45%"/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lakorthus&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakorthus&show_icons=true&theme=dracula&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakorthus&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 </p>
