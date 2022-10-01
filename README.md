@@ -32,7 +32,15 @@ while (dev.isInFrontOfComputer()) {
 * Workout:weight_lifting_man: 3 days a week. 
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:.
 * Adapting the minimalism & Health life style.
+
+#### 🏆 Github Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lakorthus&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakorthus&show_icons=true&theme=dracula&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakorthus&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 #### :computer: Programming languages and tools: 
+
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
@@ -47,10 +55,4 @@ while (dev.isInFrontOfComputer()) {
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 </p>
-
-#### 🏆 Github Stats:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lakorthus&theme=dracula&hide_border=true)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakorthus&show_icons=true&theme=dracula&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakorthus&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
