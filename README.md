@@ -19,7 +19,7 @@ while (dev.isInFrontOfComputer()) {
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lakorthus.lakorthus)](https://github.com/lakorthus/)
 
 <!-- gif Image -->
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="side Image" align="right" width="460" height="auto" />
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="side Image" align="right" width="260" height="auto" />
 
 #### 💼  Things that I'm currently working on: 
 * Learning Web: React and SQL.
