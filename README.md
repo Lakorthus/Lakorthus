@@ -23,7 +23,7 @@ while (dev.isInFrontOfComputer()) {
 
 #### 💼  Things that I'm currently working on: 
 * Learning Web: React and SQL.
-* Looking forward to take a Python:calling: course in future.
+* Looking forward to take a Python 🐍 course in future.
 * Better organising and documenting my respositories.
 * [Portfolio](https://react-portafolio-two.vercel.app/)
 #### 🌱 Challenges that I’m currently challenging myself:
