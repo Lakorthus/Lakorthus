@@ -33,7 +33,6 @@ while (dev.isInFrontOfComputer()) {
 * Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:.
 * Adapting the minimalism & Health life style.
 #### :computer: Programming languages and tools: 
-<img src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" alt="side Image" align="right" width="460" height="auto" />
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
