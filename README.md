@@ -17,7 +17,7 @@ while (dev.isInFrontOfComputer()) {
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lakorthus@gmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/lakorthus?label=Twitter&style=social)](https://twitter.com/lakorthus/)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lakorthus.lakorthus)](https://github.com/lakorthus/)
-
+<a target="_blank" href="https://www.codewars.com/users/Lakorthus"><img src="https://www.codewars.com/users/Lakorthus/badges/small" alt="Codewars Badge" /></a>
 <!-- gif Image -->
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="side Image" align="right" width="260" height="auto" />
 
@@ -50,8 +50,9 @@ while (dev.isInFrontOfComputer()) {
 </p>
 
 #### 🏆 Github Stats:
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lakorthus&theme=dracula&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakorthus&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakorthus&show_icons=true&theme=dracula&hide_border=true)
 
-<a target="_blank" href="https://www.codewars.com/users/lakorthus"><img src="https://www.codewars.com/users/lakorthus/badges/small" alt="Codewars Badge" />
+
