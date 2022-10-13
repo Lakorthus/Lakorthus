@@ -54,4 +54,4 @@ while (dev.isInFrontOfComputer()) {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakorthus&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakorthus&show_icons=true&theme=dracula&hide_border=true)
 
-<a target="_blank" href="https://www.codewars.com/users/lakorthus"><img src="https://www.codewars.com/users/lakorthus/badges/small" alt="Codewars Badge" /></a>
+<a target="_blank" href="https://www.codewars.com/users/lakorthus"><img src="https://www.codewars.com/users/lakorthus/badges/small" alt="Codewars Badge" />
