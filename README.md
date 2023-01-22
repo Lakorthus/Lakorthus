@@ -13,7 +13,7 @@ while (dev.isInFrontOfComputer()) {
 }
 ```
 [![Github](https://img.shields.io/github/followers/lakorthus?label=Github&style=social)](https://github.com/lakorthus)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/julio-velezmoro-frontend-developer)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jv-frontend-developer/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lakorthus@gmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/lakorthus?label=Twitter&style=social)](https://twitter.com/lakorthus/)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lakorthus.lakorthus)](https://github.com/lakorthus/)
