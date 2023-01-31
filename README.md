@@ -17,6 +17,7 @@ while (dev.isInFrontOfComputer()) {
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:lakorthus@gmail.com)
 [![Twitter](https://img.shields.io/twitter/follow/lakorthus?label=Twitter&style=social)](https://twitter.com/lakorthus/)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=lakorthus.lakorthus)](https://github.com/lakorthus/)
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
 <a target="_blank" href="https://www.codewars.com/users/Lakorthus"><img src="https://www.codewars.com/users/Lakorthus/badges/micro" alt="Codewars Badge" /></a>
 <!-- gif Image -->
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="side Image" align="right" width="260" height="auto" />
