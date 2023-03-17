@@ -26,7 +26,7 @@ while (dev.isInFrontOfComputer()) {
 * Learning Web: React at the [School of Code]("https://github.com/SchoolOfCode")
 * Looking forward to take a Python 🐍 course in future.
 * Better organising and documenting my respositories.
-* [Portfolio](https://react-portafolio-two.vercel.app/)
+* [Portfolio](https://next-portfolio-khaki-nine.vercel.app/)
 #### 🌱 Challenges that I’m currently challenging myself:
 * Improve my knowledge of code:man_technologist: 2-3 hours a day. ( One or two day off a week ) 
 * Read:newspaper: Dev and Tech articles daily.
