@@ -56,5 +56,4 @@ while (dev.isInFrontOfComputer()) {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakorthus&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakorthus&show_icons=true&theme=dracula&hide_border=true)
 
-<a href="http://www.github.com/Lakorthus"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lakorthus&bg_color=27272a&color=ffffff&line=ec4899&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
