@@ -23,7 +23,7 @@ while (dev.isInFrontOfComputer()) {
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="side Image" align="right" width="260" height="auto" />
 
 #### 💼  Things that I'm currently working on: 
-* Learning Web: React at the [School of Code]("https://github.com/SchoolOfCode")
+* Graduate: Full Stack at the [School of Code]("https://www.schoolofcode.co.uk/")
 * Looking forward to take a Python 🐍 course in future.
 * Better organising and documenting my respositories.
 * [Portfolio](https://next-portfolio-khaki-nine.vercel.app/)
