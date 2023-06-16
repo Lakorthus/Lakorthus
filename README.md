@@ -24,14 +24,14 @@ while (dev.isInFrontOfComputer()) {
 
 #### 💼  Things that I'm currently working on: 
 * Graduate: Full Stack at the [School of Code](https://www.schoolofcode.co.uk/)
-* Looking forward to take a Python 🐍 course in future.
-* Better organising and documenting my respositories.
-* [Portfolio](https://next-portfolio-khaki-nine.vercel.app/){:target="_blank"}
-#### 🌱 Challenges that I’m currently challenging myself:
-* Improve my knowledge of code:man_technologist: 2-3 hours a day. ( One or two day off a week ) 
-* Read:newspaper: Dev and Tech articles daily.
+* Looking forward to taking a Python 🐍 course in future.
+* Better organising and documenting my repositories.
+* [Portfolio](https://next-portfolio-khaki-nine.vercel.app/)
+#### 🌱 Challenges that I’m currently challenging myself with:
+* Improve my knowledge of code:man_technologist: 2-3 hours a day. ( One or two days off a week ) 
+* Read newspaper: Dev and Tech articles daily.
 * Workout:weight_lifting_man: 3 days a week. 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:.
+* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
 * Adapting the minimalism & Health life style.
 
 #### :computer: Programming languages and tools: 
